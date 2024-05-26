@@ -8,5 +8,7 @@ namespace Hola
 {
     internal class UI
     {
+        public UI() { }
+
     }
 }
